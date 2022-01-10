@@ -1,0 +1,2 @@
+# myDictionary
+word saving dictionary
